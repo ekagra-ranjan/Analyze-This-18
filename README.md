@@ -2,7 +2,13 @@
 ## (American Express Flagship Data Science Competition)
 
 ## Final Result
-National Rank **22**
+National Rank **22**  
+<br>
+Team Name: Flabbergasted
+<br>
+
+![picture alt](https://github.com/ekagra-ranjan/Analyze-This-18/blob/master/Screenshot%20from%202018-10-04%2000-12-56.png
+ "Final Results")
 
 
 The repo contains kernels for the following algorithms and techniques:
