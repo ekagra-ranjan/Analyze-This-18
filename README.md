@@ -58,6 +58,10 @@ Following files can be downloaded for your analysis.
 Please note that you can make multiple submissions corresponding to the Leaderboard Dataset. However, for the Final dataset you can submit only one solution.
 
 # Solution
+## Data Preprocessing 
+### (One of the most important steps in data science. 'Feed in garbage and you will get garbage')
+We used transformation *(log or cuberoot)* to make the distribution *Gaussian* as well as *normalized* 21 feature columns including the ones which we got  after removing and combining some of the input data – explained later.
+
 ## Estimation Technique Used
 We used a Gradient Boosting Machine – implementing the xgboost Python library.
  
@@ -68,7 +72,6 @@ We then used an ensemble model of Linear Support Vector Machine, Extreme Gradien
 
 Ensemble methods helps improve machine learning results by combining multiple models. Using ensemble methods allows to produce better predictions compared to a single model.
 
-We used transformation *(log or cuberoot)* to make the distribution *Gaussian* as well as *normalized* 21 feature columns including the ones which we got  after removing and combining some of the input data – explained later.
 
 ## Visualizations
 ### Feature Importance using Random Forest Feature Sampling Technique
