@@ -59,7 +59,7 @@ Please note that you can make multiple submissions corresponding to the Leaderbo
 
 # Solution
 ## Data Preprocessing 
-### (One of the most important steps in data science. 'Feed in garbage and you will get garbage')
+### (One of the most important steps in data science. *'Feed in garbage and you will get garbage'*)
 We used transformation *(log or cuberoot)* to make the distribution *Gaussian* as well as *normalized* 21 feature columns including the ones which we got  after removing and combining some of the input data – explained later.
 
 ## Estimation Technique Used
