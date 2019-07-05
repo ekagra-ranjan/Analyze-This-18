@@ -81,7 +81,7 @@ We used transformation (log or cuberoot) to make the distribution Gaussian as we
 	
 Nearly all the variables had missing values. We analysed all the variables and decided that the  mean of the features was the best alternative for the missing values.
 
-The variables *mvar6* was found to be inversely related to the default rate and *mvar7* and *mvar8* were directly related. So we used a new feature *(mvar7 + mvar8)/mvar6*.
+The variables *mvar6* was found to be inversely related to the *default rate* whereas *mvar7* and *mvar8* were directly related to it. So we used a new feature *(mvar7 + mvar8)/mvar6*.
 
 Similar observations led us to include new features like *(1+mvar3)* * *(1+mvar4)* * *(1+mvar5)* and *(mvar36)* * *mvar(37)*/*mvar38*. These synthesised features were helpful in increasing the performance which can be seen from the feature importance graph in above section.
 
