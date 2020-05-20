@@ -100,3 +100,17 @@ To reduce the number features we removed highly correlated features using the he
 We feel that a single estimator is prone to overfit the data and hence might not perform well on the test data.
 
 Hence we used ensemble (averaging over different estimators) of models that are different in nature to reduce overfitting and give us a robust estimator.
+
+<br>
+<br>
+
+## Github repos of similar Data Science Competitions:
+
+* [Analyze-This-18](https://github.com/ekagra-ranjan/Analyze-This-18)
+* [Analyze-This-17](https://github.com/ekagra-ranjan/Analyze-This-17)
+* [Inter-IIT-Techmeet-17](https://github.com/ekagra-ranjan/Optimal-Bidding/)
+* [GS-Quantify-17](https://github.com/ekagra-ranjan/GS-Quantify-17/)
+
+<p align="center">
+	Please star the repo if you found the materials in the repo useful :)
+</p>
