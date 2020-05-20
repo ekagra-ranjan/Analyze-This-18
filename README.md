@@ -1,10 +1,16 @@
-# Analyze-This-18 
-## (American Express Flagship Data Science Competition)
+<h1 align="center">
+	Analyze-This-18 
+</h1>
+<h4 align="center">
+	(American Express Flagship Data Science Competition)
+</h4>
 
-## Final Result
-National Rank **22**  
+<p align="center">
+  <a href="https://github.com/ekagra-ranjan/Analyze-This-18/"><img src="http://img.shields.io/badge/National Rank-22-blue.svg"></a>
+<a href="https://github.com/ekagra-ranjan/Analyze-This-18/"><img src="http://img.shields.io/badge/Team Name-Flabbergasted-purple.svg"></a>
+</p>
+
 <br>
-Team Name: Flabbergasted
 <br>
 
 ![picture alt](https://github.com/ekagra-ranjan/Analyze-This-18/blob/master/Screenshot%20from%202018-10-04%2000-12-56.png
