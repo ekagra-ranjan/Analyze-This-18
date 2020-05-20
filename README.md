@@ -107,8 +107,8 @@ Hence we used ensemble (averaging over different estimators) of models that are 
 ## Github repos of similar Data Science Competitions:
 
 * [Analyze-This-17](https://github.com/ekagra-ranjan/Analyze-This-17)
-* [Inter-IIT-Techmeet-17](https://github.com/ekagra-ranjan/Optimal-Bidding/)
 * [GS-Quantify-17](https://github.com/ekagra-ranjan/GS-Quantify-17/)
+* [Inter-IIT-Techmeet-17](https://github.com/ekagra-ranjan/Optimal-Bidding/)
 
 <p align="center">
 	Please star the repo if you found the materials in the repo useful :)
